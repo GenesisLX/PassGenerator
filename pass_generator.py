@@ -6,7 +6,7 @@ symbols = {
     2: "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
     3: "abcdefghijklmnopqrstuvwxyz",
     4: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
-    5: ",./\[]{}<>?!|&$#@-+="
+    5: "!#$%&()*+./:;=<>?@[]^`{|}~'\\"
 }
 
 
